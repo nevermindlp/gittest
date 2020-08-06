@@ -16,4 +16,8 @@ public class HelloWorld {
         System.out.println("commit2");
     }
 
+    public void branch1() {
+        System.out.println("branch1");
+    }
+
 }
