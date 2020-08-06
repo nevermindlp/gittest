@@ -12,4 +12,8 @@ public class HelloWorld {
         System.out.println("after rebase.");
     }
 
+    public void afterRebase2() {
+        System.out.println("after rebase2.");
+    }
+
 }
