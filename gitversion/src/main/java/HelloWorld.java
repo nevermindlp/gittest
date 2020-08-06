@@ -8,4 +8,8 @@ public class HelloWorld {
         System.out.println("hello world!");
     }
 
+    public void afterRebase() {
+        System.out.println("after rebase.");
+    }
+
 }
