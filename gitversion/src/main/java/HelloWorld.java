@@ -12,4 +12,8 @@ public class HelloWorld {
         System.out.println("commit1");
     }
 
+    public void commit2() {
+        System.out.println("commit2");
+    }
+
 }
